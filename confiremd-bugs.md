@@ -1,4 +1,4 @@
-# Confirmed bug lists
+# Confirmed bugs list
 1. git: 1 bug (Link will be released after the double blind review procees).
 
 2. Linux kernel: 4 bugs (Links will be released after the double blind review procees).
