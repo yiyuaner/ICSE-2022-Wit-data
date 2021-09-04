@@ -1,4 +1,9 @@
-# Confirmed bugs list
+#Notice
+We hide some of the links to bug reports due to the double-blind requirement.
+We are willing to send these links to the PC chair for verification (or share them in any  
+way that the reviewers consider appropriate). They will be added upon acceptance of the paper.
+
+# Confirmed bugs list (14 bugs in total)
 1. git: 1 bug (Link will be released after the double blind review procees).
 
 2. Linux kernel: 4 bugs (Links will be released after the double blind review procees).
