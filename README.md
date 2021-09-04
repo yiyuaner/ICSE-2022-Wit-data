@@ -7,5 +7,4 @@ into Class Src, Class Bd, and Class Un, as discussed in the paper.
 
 File "confiremd-bugs.md" provides links to the bug reports of the confirmed divide-by-zero bugs 
 found by our tool. We hide some of the links to bug reports due to the double-blind requirement.
-We are willing to send these links to the PC chair for verification (or share them in any  
-way that the reviewers consider appropriate). They will be added upon acceptance of the paper.
+We are willing to send these links to the PC chair for verification (or share them in any way that the reviewers consider appropriate). They will be added upon acceptance of the paper.
