@@ -1,5 +1,5 @@
 # Confirmed bugs list (14 bugs in total)
-1. git: [1 bug] (https://lore.kernel.org/git/YI1f0NesWZFqh9O2@coredump.intra.peff.net/T/#m81221758bb89fa0088a6697f5863242388490bc2) 
+1. git: [1 bug](https://lore.kernel.org/git/YI1f0NesWZFqh9O2@coredump.intra.peff.net/T/#m81221758bb89fa0088a6697f5863242388490bc2) 
 
 2. Linux kernel: [1st](https://lore.kernel.org/linux-parisc/alpine.DEB.2.22.394.2105121353530.1204552@ramsan.of.borg/T/#t); [2nd](https://lore.kernel.org/linux-block/21cb65d1-b91a-2627-3824-292de3a7553a@suse.de/T/#t); [3rd](https://lore.kernel.org/lkml/CAM7=BFoH7Q+YHvPFnHM4j72ORHQp4gTjHFjnfeLsV2-30ZLNYw@mail.gmail.com/T/#t); [4th](https://lore.kernel.org/dri-devel/YJ00C%2FKdhe3bSrtH@kroah.com/T/#u)
 
